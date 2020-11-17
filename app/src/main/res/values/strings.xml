@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <!-- Questions screen -->
+    <string name="btn_submit_text">Submit!</string>
+    <string name="btn_submit_submitted_text">Already Submitted</string>
+    <string name="snackbar_title_success">Success!</string>
+    <string name="snackbar_title_failure">Failure!</string>
+    <string name="snackbar_btn_action_text">Retry</string>
+    <string name="tv_questions_answered">"Questions answered: %1$d"</string>
+    <string name="toast_empty_answer_error_text">Answer shouldn\'t be empty!</string>
+
+    <!-- Main screen -->
+    <string name="main_toast_error_text">Error!</string>
+
+    <!-- Toolbar -->
+    <string name="tv_toolbar_questions">Question %1$d/%2$d</string>
+
+</resources>
