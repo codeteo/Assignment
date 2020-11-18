@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">My Application</string>
+    <string name="app_name">XM App</string>
 
     <!-- Questions screen -->
     <string name="btn_submit_text">Submit!</string>
